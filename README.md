@@ -8,6 +8,8 @@
 
 * [https://qifenglou.co](https://qifenglou.co)
 * [https://qifenglou.info](https://qifenglou.info)
+* [https://www.qiloufeng.com](https://www.qiloufeng.com)
+* [https://qifenglou.net](https://qifenglou.net)
 
 
 ##### 请务必牢记我们Github的防封地址：[https://qifenglou.github.io](https://qifenglou.github.io)
